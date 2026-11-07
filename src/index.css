@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { margin: 0; background-color: #1C1B1F; color: #E6E1E5; font-family: system-ui, sans-serif; overscroll-behavior: none; }
+::-webkit-scrollbar { display: none; }
